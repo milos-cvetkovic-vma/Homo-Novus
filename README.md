@@ -43,6 +43,3 @@ Defines subscription categories for the WebSocket connection, detailing which da
 
 To run the **Homo Novus** trading bot, ensure that all dependencies are installed and that you have valid credentials for the Bitmex API. Start the bot by running the `main.py` file, which will initiate the trading operations based on predefined parameters and real-time market analysis.
 
-## Contributing
-
-Contributions to the **Homo Novus** project are welcome. Please fork the repository, make your changes, and submit a pull request for review.
