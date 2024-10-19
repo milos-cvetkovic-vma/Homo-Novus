@@ -22,7 +22,6 @@ This script contains the core trading algorithm for the **Homo Novus** bot. It h
 - Connections to the Bitmex trading platform using custom WebSocket integrations.
 - Detailed error handling and data logging to ensure robust trading operations.
 - SQLite database interactions for storing and managing trading states and orders.
-- A Flask-based web interface to display and manage trading orders dynamically.
 
 ### `bitmex_websocket_custom.py`
 
